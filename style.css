@@ -1,8 +1,8 @@
 body{
     text-align: center;
     font-family: Arial;
-    background-color: #797;
-    color:white;
+    background-color: rgb(101, 4, 211);
+    color:rgb(0, 0, 0);
 
 }
 img{
@@ -11,6 +11,6 @@ img{
 }
 button{
     margin: 10px;
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: 10px 50px;
+    font-size: 20px;
 }
